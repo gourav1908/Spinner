@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <array name="spinner">
+        <item>India</item>
+        <item>America</item>
+        <item>England</item>
+        <item>Australia</item>
+        <item>UAE</item>
+        <item>Israele</item>
+        <item>Nepal</item>
+        <item>Mariana</item>
+        <item>Kingston</item>
+        <item>Zimbawae</item>
+    </array>
+</resources>
